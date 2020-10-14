@@ -114,7 +114,7 @@ class Student{
             System.out.println();
         }
     }
-
+ 
     public void question1(Student[] stus){
         //问题一：打印出3年级(state=3)的学生信息
         System.out.println("*******************");
