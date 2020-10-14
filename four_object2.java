@@ -47,7 +47,7 @@ class example{
         {
             System.out.print(arr[i] + " ");
         }
-    }
+    } 
 
     public void example2(){
         int[] arr = new int[]{1,2,3};
